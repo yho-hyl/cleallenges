@@ -7,4 +7,4 @@ def check(word):
                 vowelnum += 1
     return vowelnum
 
-print(check("energya"))
+print(check("tree"))
