@@ -5,3 +5,4 @@ for (let word = "hello"; word.length > 0; word.shift) {
         }
     }
 }
+console.log(vowelnum);
